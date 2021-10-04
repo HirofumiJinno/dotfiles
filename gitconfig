@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hirofumi.jinno@gmail.com
+	name = Hirofumi Jinno
